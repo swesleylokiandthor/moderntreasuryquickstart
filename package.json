@@ -1,0 +1,12 @@
+{
+  "name": "modern-treasury",
+  "version": "1.0.0",
+  "description": "quickstart",
+  "main": "index.js",
+  "author": "swesleylokiandthor",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
